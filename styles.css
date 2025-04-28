@@ -1,0 +1,57 @@
+navigation{
+    margin-left: 30px;
+}
+
+navigation p{
+    display: inline;
+}
+
+a{
+    text-decoration-color: black;
+    color: black;
+}
+
+.visit-taniti{
+    margin-right: 900px;
+    font-size: 34px;
+}
+
+.home, .plan-your-trip{
+    font-size: 24px;
+}
+
+.home{
+    margin-right: 100px;
+}
+
+main{
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-btn{
+    font-size: 30px;
+    margin-bottom: 150px;
+    text-align: center;
+}
+
+#eat{
+    margin-top: 100px;
+}
+
+img{
+    width: 1250px;
+    height: 720px;
+    margin-top: 40px;
+}
+
+.sub-page-main{
+    text-align: center;
+    margin-top: 250px;
+    font-size: 20px;
+}
+
+.double{
+    display: flex;
+    flex-direction: column;
+}
